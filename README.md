@@ -19,12 +19,13 @@
   scrapy crawl nomearq
   ```
   * OBS.: Para salvar os dados em um arquivo pode se utilizar as seguintes adições de comando:
+  
   -o: continua a escrever no arquivo.
   ```
   scrapy crawl nomearq -o nomearquivo.extensao
   ```
   
-   -O:Sobrepõe o que já foi escrito, iniciando do zero.
+   -O: Sobrepõe o que já foi escrito, iniciando do zero.
   ```
   scrapy crawl nomearq -O nomearquivo.extensao
   ```
