@@ -14,7 +14,7 @@
   ```
   scrapy genspider nomearq nome-url.com
   ```
-4.Para rodar o projeto, utiliza-se o seguinte comando:
+4. Para rodar o projeto, utiliza-se o seguinte comando:
   ```
   scrapy crawl nomearq
   ```
